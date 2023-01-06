@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316461615020" name="SMT-JUMPER_2_NC_TRACE">
+  <arc zIndex="0" borderWidth="0.762" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" lineCap="Round">
+    <startPoint>
+      <X>-0.635</X>
+      <Y>1.27</Y>
+    </startPoint>
+    <endPoint>
+      <X>-0.635</X>
+      <Y>-1.27</Y>
+    </endPoint>
+    <size>
+      <Width>2.032</Width>
+      <Height>2.032</Height>
+    </size>
+  </arc>
+  <pin zIndex="0" name="2" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="5.079999999999991" y="-1.4210854715202004E-14" pinLength="3.81" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="1" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-5.0800000000000125" y="-1.4210854715202004E-14" pinLength="3.81" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-1.2700000000000102" y1="-1.4210854715202004E-14" x2="1.269999999999989" y2="-1.4210854715202004E-14" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <arc zIndex="0" borderWidth="0.762" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" lineCap="Round">
+    <startPoint>
+      <X>0.635</X>
+      <Y>-1.27</Y>
+    </startPoint>
+    <endPoint>
+      <X>0.635</X>
+      <Y>1.27</Y>
+    </endPoint>
+    <size>
+      <Width>2.032</Width>
+      <Height>2.032</Height>
+    </size>
+  </arc>
+</symbol>

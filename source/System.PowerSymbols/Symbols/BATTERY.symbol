@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012313185803018" name="BATTERY">
+  <line zIndex="0" x1="-1.269999999999996" y1="-3.8100000000000094" x2="-1.269999999999996" y2="3.809999999999988" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0" y1="-1.2700000000000102" x2="0" y2="1.269999999999989" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2700000000000031" y1="-3.8100000000000094" x2="1.2700000000000031" y2="3.809999999999988" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000063" y1="-1.2700000000000102" x2="2.5400000000000063" y2="1.269999999999989" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-2.539999999999999" y1="-1.4210854715202004E-14" x2="-1.269999999999996" y2="-1.4210854715202004E-14" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="-" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="-" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="5.079999999999998" y="-1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="+" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="+" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-5.079999999999998" y="-1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

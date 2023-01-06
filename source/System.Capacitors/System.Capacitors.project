@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <References>
+    <ProjectReference projectPath="System.Common.Footprints\System.Common.Footprints.project" />
+  </References>
+  <Properties>
+    <Version>1.1.0</Version>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
+  </Properties>
+  <package>
+    <Id>System.Capacitors</Id>
+    <Version>0.3.0-preview</Version>
+  </package>
+</Project>

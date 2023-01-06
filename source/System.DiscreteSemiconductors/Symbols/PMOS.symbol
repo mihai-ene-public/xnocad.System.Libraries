@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550959017" name="PMOS">
+  <pin zIndex="0" name="G" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="G" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-5.079999999999984" y="0" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="S" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="S" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="2.5400000000000205" y="2.539999999999999" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="D" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="D" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="2.5400000000000205" y="-7.6200000000000045" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-2.539999999999985" y1="0" x2="-2.539999999999985" y2="-5.080000000000005" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.5239999999999796" y1="-5.080000000000005" x2="-1.5239999999999796" y2="-4.064" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.5239999999999796" y1="-3.048000000000002" x2="-1.5239999999999796" y2="-2.0320000000000036" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.5239999999999796" y1="-1.0160000000000053" x2="-1.5239999999999796" y2="0" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.5239999999999796" y1="-2.5400000000000063" x2="-1.015999999999984" y2="-2.5400000000000063" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-0.7619999999999791" y1="-3.048000000000002" x2="-0.7619999999999791" y2="-2.0320000000000036" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-0.7619999999999791" y1="-2.0320000000000036" x2="1.4210854715202004E-14" y2="-2.5400000000000063" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.4210854715202004E-14" y1="-2.5400000000000063" x2="-0.7619999999999791" y2="-3.048000000000002" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.4210854715202004E-14" y1="-2.5400000000000063" x2="0.5080000000000169" y2="-2.5400000000000063" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.5080000000000169" y1="-2.5400000000000063" x2="0.5080000000000169" y2="-0.5080000000000027" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.5239999999999796" y1="-0.5080000000000027" x2="2.5400000000000205" y2="-0.5080000000000027" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.5240000000000151" y1="-3.5560000000000045" x2="3.5560000000000187" y2="-3.5560000000000045" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="3.5560000000000187" y1="-3.5560000000000045" x2="2.5400000000000205" y2="-2.539999999999999" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000205" y1="-2.539999999999999" x2="1.5240000000000151" y2="-3.5560000000000045" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.5240000000000151" y1="-2.5400000000000063" x2="3.5560000000000187" y2="-2.5400000000000063" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="3.5560000000000187" y1="-2.539999999999999" x2="4.064000000000021" y2="-3.048000000000002" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.5240000000000151" y1="-2.539999999999999" x2="1.0160000000000124" y2="-2.0319999999999965" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000205" y1="-5.080000000000005" x2="2.5400000000000205" y2="-3.5560000000000045" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000205" y1="-2.5400000000000063" x2="2.5400000000000205" y2="0" width="0.49999899999999997" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

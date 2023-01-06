@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019061013535940000" name="SOD-323">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <smd number="C" layer="1" x="-1.1499999999999966" y="2.6922908347160046E-15" rot="0" width="0.63" height="0.83" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="A" layer="1" x="1.1500000000000024" y="2.6922908347160046E-15" rot="0" width="0.63" height="0.83" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="-1.7700000000000033" y1="-0.6249999999999972" x2="-1.7700000000000033" y2="0.6250000000000031" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.8999999999999966" y1="-0.6249999999999972" x2="0.9000000000000025" y2="-0.6249999999999972" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.8999999999999966" y1="0.6250000000000031" x2="0.9000000000000025" y2="0.6250000000000031" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2020112615150622000" modelName="SOD-323" modelLibrary="System.Common.Models" />
+</footprint>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759016" name="RESONATOR-SMD-4.5X2.0">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="-2.3500000000000028" y1="1.0000000000000082" x2="-2.3500000000000028" y2="-1.2000000000000057" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-2.1000000000000028" y1="-1.2000000000000057" x2="-2.3500000000000028" y2="-1.2000000000000057" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-2.1000000000000028" y1="1.0000000000000082" x2="-2.3500000000000028" y2="1.0000000000000082" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="2.350000000000001" y1="1.0000000000000082" x2="2.350000000000001" y2="-1.2000000000000057" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="2.350000000000001" y1="-1.2000000000000057" x2="2.100000000000001" y2="-1.2000000000000057" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="2.350000000000001" y1="1.0000000000000082" x2="2.100000000000001" y2="1.0000000000000082" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <rect x="-1.500000000000001" y="-1.1500000000000015" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" isLocked="false" />
+  <rect x="-4.912736883966318E-15" y="-1.1500000000000015" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" isLocked="false" />
+  <rect x="1.4999999999999976" y="-1.1500000000000015" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" isLocked="false" />
+  <rect x="-1.500000000000001" y="0.9499999999999968" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" isLocked="false" />
+  <rect x="-4.912736883966318E-15" y="0.9499999999999968" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" isLocked="false" />
+  <rect x="1.4999999999999976" y="0.9499999999999968" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" isLocked="false" />
+  <rect x="-1.500000000000001" y="-1.1500000000000015" width="1" height="0.6999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" isLocked="false" />
+  <rect x="-4.912736883966318E-15" y="-1.1500000000000015" width="1" height="0.6999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" isLocked="false" />
+  <rect x="1.4999999999999976" y="-1.1500000000000015" width="1" height="0.6999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" isLocked="false" />
+  <rect x="1.4999999999999976" y="0.9499999999999968" width="1" height="0.6999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" isLocked="false" />
+  <rect x="-4.912736883966318E-15" y="0.9499999999999968" width="1" height="0.6999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" isLocked="false" />
+  <rect x="-1.500000000000001" y="0.9499999999999968" width="1" height="0.6999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" isLocked="false" />
+  <smd number="1" layer="1" x="-1.500000000000001" y="-0.10000000000000742" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="-4.912736883966318E-15" y="-0.10000000000000742" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" layer="1" x="1.4999999999999976" y="-0.10000000000000742" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="-4.912736883966318E-15" y="-1.1500000000000015" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" isLocked="false" />
+  <rect x="-4.912736883966318E-15" y="0.9499999999999968" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" isLocked="false" />
+  <rect x="-1.500000000000001" y="-1.1500000000000015" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" isLocked="false" />
+  <rect x="-1.500000000000001" y="0.9499999999999968" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" isLocked="false" />
+  <rect x="1.4999999999999976" y="-1.1500000000000015" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" isLocked="false" />
+  <rect x="1.4999999999999976" y="0.9499999999999968" width="0.7999999999999972" height="0.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" isLocked="false" />
+  <line x1="-2.2500000000000013" y1="-1.1000000000000043" x2="2.2499999999999996" y2="-1.1000000000000043" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="2.2499999999999996" y1="-1.1000000000000043" x2="2.2499999999999996" y2="0.8999999999999997" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="2.2499999999999996" y1="0.8999999999999997" x2="-2.2500000000000013" y2="0.8999999999999997" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-2.2500000000000013" y1="0.8999999999999997" x2="-2.2500000000000013" y2="-1.1000000000000043" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+</footprint>

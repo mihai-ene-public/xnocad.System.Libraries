@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316124424020" name="GATE_AND_2">
+  <line zIndex="0" x1="-5.08000000000002" y1="5.079999999999991" x2="2.539999999999978" y2="5.079999999999991" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-5.08000000000002" y1="5.079999999999991" x2="-5.08000000000002" y2="-5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-5.08000000000002" y1="-5.0800000000000125" x2="2.539999999999978" y2="-5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <arc zIndex="0" borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" lineCap="Round">
+    <startPoint>
+      <X>2.54</X>
+      <Y>-5.08</Y>
+    </startPoint>
+    <endPoint>
+      <X>2.54</X>
+      <Y>5.08</Y>
+    </endPoint>
+    <size>
+      <Width>1</Width>
+      <Height>1</Height>
+    </size>
+  </arc>
+  <pin zIndex="0" name="B" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="B" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-7.620000000000019" y="2.539999999999992" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="A" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="A" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-7.620000000000019" y="-2.5400000000000134" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="Y" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="Y" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="10.159999999999982" y="-1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

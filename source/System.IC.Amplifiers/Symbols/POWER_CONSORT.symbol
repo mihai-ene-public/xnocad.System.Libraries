@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315341369015" name="POWER_CONSORT">
+  <pin zIndex="0" name="VCC" showName="true" pinNameX="-0.2699999999999818" pinNameY="-1.4500000000000028" pinNameRot="0" number="P$V+" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-1.4210854715202004E-14" y="-7.619999999999997" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="VEE" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="P$V-" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-1.4210854715202004E-14" y="7.619999999999983" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-2.54" y1="-5.08" x2="-2.54" y2="5.08" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-2.5400000000000134" y1="5.0800000000000125" x2="2.539999999999992" y2="5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.54" y1="5.08" x2="2.54" y2="-5.08" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.539999999999992" y1="-5.0800000000000125" x2="-2.5400000000000134" y2="-5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313560875014" name="INDUCTOR_LQH32">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <smd number="1" layer="1" x="0.030000000000007382" y="-1.2049999999999992" rot="0" width="2" height="1.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="0.030000000000007382" y="1.2949999999999982" rot="0" width="2" height="1.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="-1.1700000000000004" y1="-1.9049999999999985" x2="-1.1700000000000004" y2="1.9049999999999963" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.1700000000000004" y1="1.9049999999999963" x2="1.2430000000000017" y2="1.9049999999999963" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="1.2430000000000017" y1="1.9049999999999963" x2="1.2430000000000017" y2="-1.9049999999999985" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="1.2430000000000017" y1="-1.9049999999999985" x2="-1.1700000000000004" y2="-1.9049999999999985" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+</footprint>

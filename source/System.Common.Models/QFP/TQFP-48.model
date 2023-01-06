@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2019061117430970000" name="TQFP-48">
+  <qfpParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" NumberPads="48" E="0.5" D1="7" D="9.54" B="0.2" L="0.75" A="1.2" A1="0.15" />
+</model>

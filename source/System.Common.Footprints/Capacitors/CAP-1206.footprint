@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019060919524542000" name="CAP-1206">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <smd number="1" layer="1" x="-1.3999999999999972" y="-1.4155343563970746E-15" rot="0" width="1.6" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="1.3999999999999964" y="-1.4155343563970746E-15" rot="0" width="1.6" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="-2.3999999999999977" y1="-1.100000000000003" x2="2.4000000000000004" y2="-1.100000000000003" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="2.4000000000000004" y1="1.0999999999999974" x2="-2.3999999999999977" y2="1.0999999999999974" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-2.3999999999999977" y1="1.0999999999999974" x2="-2.3999999999999977" y2="-1.100000000000003" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="2.4000000000000004" y1="-1.100000000000003" x2="2.4000000000000004" y2="1.0999999999999974" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.9650000000000021" y1="-0.7870000000000008" x2="0.9650000000000074" y2="-0.7870000000000008" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.9650000000000021" y1="0.7869999999999949" x2="0.9650000000000074" y2="0.7869999999999949" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <rect x="-1.3267500000000028" y="0.0009000000000000397" width="0.7500999999999962" height="1.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" isLocked="false" />
+  <rect x="1.326750000000009" y="-0.0009000000000028707" width="0.7500999999999962" height="1.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" isLocked="false" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061117213947000" modelName="CAP-1206" modelLibrary="System.Common.Models" />
+</footprint>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316583317019" name="VIN">
+  <line zIndex="0" x1="0.7620000000000076" y1="-1.524000000000008" x2="7.105427357601002E-15" y2="-2.794000000000004" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="7.105427357601002E-15" y1="-2.794000000000004" x2="-0.7619999999999933" y2="-1.524000000000008" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="VIN" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="VIN" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="7.105427357601002E-15" y="-7.105427357601002E-15" pinLength="2.54" width="0.5" pinType="Supply" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

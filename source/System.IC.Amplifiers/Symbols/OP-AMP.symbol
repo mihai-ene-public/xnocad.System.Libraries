@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315341369011" name="OP-AMP">
+  <pin zIndex="0" name="+" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="+IN" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-7.620000000000012" y="2.539999999999992" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="-" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="-IN" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-7.620000000000012" y="-2.5400000000000134" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="OUT" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="OUT" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="7.61999999999999" y="-1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-5.0800000000000125" y1="-5.0800000000000125" x2="-5.0800000000000125" y2="5.079999999999991" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-5.0800000000000125" y1="5.079999999999991" x2="5.079999999999991" y2="-1.4210854715202004E-14" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="5.079999999999991" y1="-1.4210854715202004E-14" x2="-5.0800000000000125" y2="-5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315210613001" name="BUZZER-12MM-NS">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <pad number="-" layer="1" x="-3.2499999999999964" y="2.831068712794149E-15" rot="0" width="1.8" height="1.8" cornerRadius="0.9" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="+" layer="1" x="3.2500000000000036" y="2.831068712794149E-15" rot="0" width="1.8" height="1.8" cornerRadius="0.9" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <circle x="3.552713678800501E-15" y="2.831068712794149E-15" diameter="11.8" borderWidth="0.2032" isFilled="false" layer="201" isLocked="false" />
+  <circle x="3.552713678800501E-15" y="2.831068712794149E-15" diameter="2.54" borderWidth="0.2032" isFilled="false" layer="201" isLocked="false" />
+  <mono x="2.667000000000005" y="-1.1429999999999978" layer="201" rot="0" fontName="Default" fontSize="1.778" strokeWidth="0.2" isLocked="false">+</mono>
+</footprint>

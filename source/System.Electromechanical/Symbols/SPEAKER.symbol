@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315210613014" name="SPEAKER">
+  <pin zIndex="0" name="+" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="+" showNumber="true" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-12.699999999999974" y="-2.5400000000000134" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="-" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="-" showNumber="true" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-12.699999999999974" y="2.539999999999992" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-7.619999999999976" y1="-5.0800000000000125" x2="-7.619999999999976" y2="5.079999999999991" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-7.619999999999976" y1="5.079999999999991" x2="2.842170943040401E-14" y2="5.079999999999991" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.842170943040401E-14" y1="5.079999999999991" x2="2.842170943040401E-14" y2="-5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.842170943040401E-14" y1="-5.0800000000000125" x2="-7.619999999999976" y2="-5.0800000000000125" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.842170943040401E-14" y1="-5.0800000000000125" x2="5.080000000000027" y2="-10.16000000000001" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="5.080000000000027" y1="-10.16000000000001" x2="5.080000000000027" y2="10.15999999999999" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="5.080000000000027" y1="10.15999999999999" x2="2.842170943040401E-14" y2="5.079999999999991" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

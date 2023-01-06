@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012313415759029" name="RESONATOR">
+  <line zIndex="0" x1="-0.5079999999999814" y1="-4.064000000000014" x2="-0.5079999999999814" y2="-1.0160000000000196" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-0.5079999999999814" y1="-1.0160000000000196" x2="0.5080000000000169" y2="-1.0160000000000196" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.5080000000000169" y1="-1.0160000000000196" x2="0.5080000000000169" y2="-4.064000000000014" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.5080000000000169" y1="-4.064000000000014" x2="-0.5079999999999814" y2="-4.064000000000014" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.0160000000000196" y1="-4.318000000000019" x2="1.0160000000000196" y2="-0.7620000000000147" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.015999999999984" y1="-4.318000000000019" x2="-1.015999999999984" y2="-0.7620000000000147" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000205" y1="-2.5400000000000205" x2="2.5400000000000205" y2="-0.5080000000000169" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="3.302000000000021" y1="-0.5080000000000169" x2="1.77800000000002" y2="-0.5080000000000169" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="3.302000000000021" y1="0.5079999999999814" x2="1.77800000000002" y2="0.5079999999999814" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000205" y1="0.5079999999999814" x2="2.5400000000000205" y2="2.539999999999985" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.7779999999999845" y1="0.5079999999999814" x2="-3.3019999999999854" y2="0.5079999999999814" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-2.539999999999985" y1="0.5079999999999814" x2="-2.539999999999985" y2="2.539999999999985" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.7779999999999845" y1="-0.5080000000000169" x2="-3.3019999999999854" y2="-0.5080000000000169" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-2.539999999999985" y1="-0.5080000000000169" x2="-2.539999999999985" y2="-2.5400000000000205" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.5400000000000205" y1="2.539999999999985" x2="-2.539999999999985" y2="2.539999999999985" width="0.1524" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="3" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="3" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="2.5400000000000134" y="-2.5400000000000205" pinLength="1.524" width="0.15239999999999998" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="1" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-2.539999999999985" y="-2.5400000000000205" pinLength="1.524" width="0.15239999999999998" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="2" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="1.4210854715202004E-14" y="5.079999999999977" pinLength="2.54" width="0.15239999999999998" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

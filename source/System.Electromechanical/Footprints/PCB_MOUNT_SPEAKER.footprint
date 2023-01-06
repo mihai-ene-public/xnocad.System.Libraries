@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315210613006" name="PCB_MOUNT_SPEAKER">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <pad number="+" layer="1" x="-7.719999999999996" y="-0.10000000000000142" rot="0" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="-" layer="1" x="7.519999999999997" y="-0.10000000000000142" rot="0" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
+  <circle x="-0.10000000000000053" y="-0.10000000000000142" diameter="29.21" borderWidth="0.2032" isFilled="false" layer="501" isLocked="false" />
+  <line x1="-16.099999999999987" y1="-1.100000000000001" x2="-16.099999999999987" y2="-0.10000000000000142" width="0.2" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-15.599999999999987" y1="-0.6000000000000013" x2="-16.59999999999998" y2="-0.6000000000000013" width="0.2" layer="501" lineStyle="Solid" isLocked="false" />
+</footprint>

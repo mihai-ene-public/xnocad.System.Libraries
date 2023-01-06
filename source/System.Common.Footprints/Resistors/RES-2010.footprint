@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019060919303789000" name="RES-2010">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <smd number="1" layer="1" x="-2.2000000000000033" y="3.58046925441613E-15" rot="0" width="1.8" height="2.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="2.2000000000000086" y="3.58046925441613E-15" rot="0" width="1.8" height="2.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="-1.7890000000000015" y1="-1.173799999999997" x2="1.7890000000000066" y2="-1.173799999999997" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.764000000000003" y1="1.1737999999999924" x2="1.813999999999998" y2="1.1737999999999924" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.3" y1="-1.5499999999999945" x2="3.3000000000000065" y2="-1.5499999999999945" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="3.3000000000000065" y1="-1.5499999999999945" x2="3.3000000000000065" y2="1.5499999999999914" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="3.3000000000000065" y1="1.5499999999999914" x2="-3.3" y2="1.5499999999999914" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.3" y1="1.5499999999999914" x2="-3.3" y2="-1.5499999999999945" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <rect x="-2.069649999999996" y="3.58046925441613E-15" width="0.8607000000000014" height="2.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" isLocked="false" />
+  <rect x="2.075500000000011" y="3.58046925441613E-15" width="0.8489999999999966" height="2.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" isLocked="false" />
+  <line x1="-1" y1="-1.2" x2="1" y2="-1.2" width="0.2" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-1" y1="1.2" x2="1" y2="1.2" width="0.2" layer="501" lineStyle="Solid" isLocked="false" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061115574507000" modelName="RES-2010" modelLibrary="System.Common.Models" />
+</footprint>

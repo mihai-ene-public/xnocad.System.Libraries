@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764114" name="USB-MINIB">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="0.10000000000000275" y1="-3.7999999999999985" x2="2.1999999999999953" y2="-3.7999999999999985" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="4.699999999999992" y1="-3.1000000000000005" x2="4.699999999999992" y2="-2.1999999999999984" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="4.699999999999992" y1="2.200000000000001" x2="4.699999999999992" y2="3.0999999999999917" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="2.1999999999999953" y1="3.7999999999999963" x2="0.10000000000000275" y2="3.7999999999999963" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <smd number="D+" layer="1" x="3.8999999999999972" y="-2.220446049250313E-15" rot="0" width="2.5" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="D-" layer="1" x="3.8999999999999972" y="-0.7999999999999996" rot="0" width="2.5" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND" layer="1" x="3.8999999999999972" y="1.5999999999999912" rot="0" width="2.5" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="ID" layer="1" x="3.8999999999999972" y="0.7999999999999949" rot="0" width="2.5" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="S3" layer="1" x="-1.5999999999999974" y="4.500000000000004" rot="0" width="2.5" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="S1" layer="1" x="-1.5999999999999974" y="-4.5" rot="0" width="2.5" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="S4" layer="1" x="3.8999999999999972" y="4.500000000000004" rot="0" width="2.5" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="S2" layer="1" x="3.8999999999999972" y="-4.5" rot="0" width="2.5" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="VBUS" layer="1" x="3.8999999999999972" y="-1.600000000000004" rot="0" width="2.5" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="-4.500000000000009" y1="-3.7999999999999985" x2="-4.500000000000009" y2="3.7999999999999963" width="0.2032" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-4.500000000000009" y1="3.7999999999999963" x2="-3.1000000000000068" y2="3.7999999999999963" width="0.2032" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-4.500000000000009" y1="-3.7999999999999985" x2="-3.1000000000000068" y2="-3.7999999999999985" width="0.2032" layer="201" lineStyle="Solid" isLocked="false" />
+  <hole x="1.3999999999999986" y="-2.1999999999999984" drill="0.9" isPlated="false" height="0" rot="0" drillType="Drill" isLocked="false" />
+  <hole x="1.3999999999999986" y="2.200000000000001" drill="0.9" isPlated="false" height="0" rot="0" drillType="Drill" isLocked="false" />
+</footprint>

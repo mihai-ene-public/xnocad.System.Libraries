@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759002" name="HC49UP">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="-5.109099999999998" y1="-1.142999999999999" x2="-3.4289999999999985" y2="-2.032099999999999" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="-1.142999999999999" x2="-5.715000000000004" y2="-2.158999999999998" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.4290000000000087" y1="-2.0319999999999956" x2="5.109100000000009" y2="-1.142999999999999" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.715000000000016" y1="-1.142999999999999" x2="5.715000000000016" y2="-2.158999999999998" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.4290000000000087" y1="1.2700000000000062" x2="-3.4289999999999985" y2="1.2700000000000062" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.4290000000000087" y1="2.0319999999999956" x2="-3.4289999999999985" y2="2.0319999999999956" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.4289999999999985" y1="-1.270000000000001" x2="3.4290000000000087" y2="-1.270000000000001" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.461000000000011" y1="2.4129999999999874" x2="-5.4609999999999985" y2="2.4129999999999874" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.461000000000011" y1="2.4129999999999874" x2="5.715000000000016" y2="2.158999999999998" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.715000000000016" y1="2.158999999999998" x2="5.715000000000016" y2="1.1430000000000033" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.4290000000000087" y1="1.2700000000000062" x2="3.9826000000000015" y2="1.1430000000000033" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.4290000000000087" y1="-1.270000000000001" x2="3.9826000000000015" y2="-1.142999999999999" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.4290000000000087" y1="2.0319999999999956" x2="5.109000000000005" y2="1.1429" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.109099999999998" y1="1.1430000000000033" x2="-3.4289999999999985" y2="2.0319999999999956" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.9826000000000015" y1="1.1430000000000033" x2="-3.4289999999999985" y2="1.2700000000000062" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.9826000000000015" y1="-1.142999999999999" x2="-3.4289999999999985" y2="-1.270000000000001" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="2.158999999999998" x2="-5.715000000000004" y2="1.1430000000000033" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="2.158999999999998" x2="-5.4609999999999985" y2="2.4129999999999874" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.4289999999999985" y1="-2.0319999999999956" x2="3.4290000000000087" y2="-2.0319999999999956" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.461000000000011" y1="-2.412999999999996" x2="-5.4609999999999985" y2="-2.412999999999996" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.461000000000011" y1="-2.412999999999996" x2="5.715000000000016" y2="-2.158999999999998" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="-2.158999999999998" x2="-5.4609999999999985" y2="-2.412999999999996" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.25399999999999956" y1="-0.6349999999999967" x2="-0.25399999999999956" y2="0.6349999999999988" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.25399999999999956" y1="0.6349999999999988" x2="0.253999999999996" y2="0.6349999999999988" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.253999999999996" y1="0.6349999999999988" x2="0.253999999999996" y2="-0.6349999999999967" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.253999999999996" y1="-0.6349999999999967" x2="-0.25399999999999956" y2="-0.6349999999999967" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.6350000000000016" y1="-0.6349999999999967" x2="-0.6350000000000016" y2="1.4155343563970746E-15" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.6350000000000016" y1="1.4155343563970746E-15" x2="-0.6350000000000016" y2="0.6349999999999988" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.6350000000000016" y1="1.4155343563970746E-15" x2="-1.0160000000000018" y2="1.4155343563970746E-15" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.6349999999999962" y1="-0.6349999999999967" x2="0.6349999999999962" y2="1.4155343563970746E-15" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.6349999999999962" y1="1.4155343563970746E-15" x2="0.6349999999999962" y2="0.6349999999999988" width="0.1524" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.6349999999999962" y1="1.4155343563970746E-15" x2="1.0159999999999965" y2="1.4155343563970746E-15" width="0.0508" layer="501" lineStyle="Solid" isLocked="false" />
+  <smd number="1" layer="1" x="-4.826000000000001" y="1.4155343563970746E-15" rot="0" width="5.334" height="1.9304" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="4.826000000000004" y="1.4155343563970746E-15" rot="0" width="5.334" height="1.9304" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="5.715000000000016" y1="0.38100000000000084" x2="6.477000000000016" y2="0.38100000000000084" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="5.715000000000016" y1="-0.3809999999999981" x2="6.477000000000016" y2="-0.3809999999999981" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="6.477000000000016" y1="0.38100000000000084" x2="6.477000000000016" y2="-0.3809999999999981" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="5.715000000000016" y1="1.1430000000000033" x2="5.715000000000016" y2="-1.142999999999999" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="3.9826000000000015" y1="1.1430000000000033" x2="3.9826000000000015" y2="-1.142999999999999" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="5.109100000000009" y1="1.1430000000000033" x2="5.109100000000009" y2="-1.142999999999999" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.9826000000000015" y1="1.1430000000000033" x2="-3.9826000000000015" y2="-1.142999999999999" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-6.4770000000000065" y1="0.38100000000000084" x2="-6.4770000000000065" y2="-0.3809999999999981" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.109099999999998" y1="1.1430000000000033" x2="-5.109099999999998" y2="-1.142999999999999" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="1.1430000000000033" x2="-5.715000000000004" y2="0.38100000000000084" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="0.38100000000000084" x2="-5.715000000000004" y2="-0.3809999999999981" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="-0.3809999999999981" x2="-5.715000000000004" y2="-1.142999999999999" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="0.38100000000000084" x2="-6.4770000000000065" y2="0.38100000000000084" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.715000000000004" y1="-0.3809999999999981" x2="-6.4770000000000065" y2="-0.3809999999999981" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+</footprint>

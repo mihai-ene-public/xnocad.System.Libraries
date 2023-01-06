@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012014511443014" name="CAP_ADJ">
+  <pin zIndex="0" name="3" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="3" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-0" y="-2.54" pinLength="1.905" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="4" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="4" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="0" y="2.54" pinLength="1.905" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-1.524" y1="-0.508" x2="1.524" y2="-0.508" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.524" y1="0.508" x2="1.524" y2="0.508" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.524" y1="1.524" x2="1.524" y2="-1.524" width="0.30479999999999996" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.6510000000000176" y1="-1.6510000000000247" x2="1.0160000000000196" y2="-1.6510000000000247" width="0.30479999999999996" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.6510000000000176" y1="-1.0160000000000267" x2="1.6510000000000176" y2="-1.6510000000000247" width="0.30479999999999996" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

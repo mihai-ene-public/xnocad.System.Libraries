@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012014511443013" name="CAP">
+  <pin zIndex="0" name="1" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="7.105427357601002E-15" y="-2.539999999999999" pinLength="1.905" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="2" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="7.105427357601002E-15" y="2.539999999999992" pinLength="1.905" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-1.27" y1="-0.635" x2="1.27" y2="-0.635" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.27" y1="0.635" x2="1.27" y2="0.635" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

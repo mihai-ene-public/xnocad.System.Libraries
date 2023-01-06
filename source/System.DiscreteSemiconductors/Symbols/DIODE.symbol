@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550959002" name="DIODE">
+  <pin zIndex="0" name="A" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="A" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-2.5400000000000276" y="-1.4210854715202004E-14" pinLength="1.27" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="C" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="C" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="2.539999999999978" y="-1.4210854715202004E-14" pinLength="1.27" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="1.2699999999999747" y1="-1.2700000000000102" x2="1.2699999999999747" y2="1.269999999999989" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.2700000000000244" y1="-1.2700000000000102" x2="-1.2700000000000244" y2="1.269999999999989" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.2700000000000244" y1="1.269999999999989" x2="1.2699999999999747" y2="-1.4210854715202004E-14" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2699999999999747" y1="-1.4210854715202004E-14" x2="-1.2700000000000244" y2="-1.2700000000000102" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

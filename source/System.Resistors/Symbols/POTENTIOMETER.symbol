@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317022546036" name="POTENTIOMETER">
+  <line zIndex="0" x1="-0.038000000000010914" y1="5.042000000000016" x2="-0.038000000000010914" y2="4.53400000000002" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-0.038000000000010914" y1="4.53400000000002" x2="-1.0540000000000092" y2="3.77200000000002" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="3.77200000000002" x2="1.2319999999999922" y2="2.5020000000000167" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2319999999999922" y1="2.5020000000000167" x2="-1.0540000000000092" y2="1.2320000000000206" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="1.2320000000000206" x2="1.2319999999999922" y2="-0.03799999999998249" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2319999999999922" y1="-0.03799999999998249" x2="-1.0540000000000092" y2="-1.3079999999999856" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="-1.3079999999999856" x2="1.2319999999999922" y2="-2.5779999999999816" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2319999999999922" y1="-2.5779999999999816" x2="-1.0540000000000092" y2="-3.8479999999999848" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="-3.8479999999999848" x2="-0.038000000000010914" y2="-4.609999999999985" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-0.038000000000010914" y1="-4.609999999999985" x2="-0.038000000000010914" y2="-5.117999999999981" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.9939999999999856" y1="2.1210000000000164" x2="2.6289999999999907" y2="3.3910000000000196" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.6289999999999907" y1="3.3910000000000196" x2="1.9939999999999856" y2="3.3910000000000196" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.9939999999999856" y1="3.3910000000000196" x2="1.3589999999999876" y2="3.3910000000000196" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.3589999999999876" y1="3.3910000000000196" x2="1.9939999999999856" y2="2.1210000000000164" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="A" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="A" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-1.4210854715202004E-14" y="7.620000000000019" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="E" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="E" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-1.4210854715202004E-14" y="-7.619999999999983" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="S" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="S" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="5.079999999999991" y="1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly zIndex="0" borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="2.5019999999999882" y="1.2320000000000135" />
+    <vertex x="1.231999999999985" y="-0.03799999999998249" />
+    <vertex x="2.5019999999999882" y="-1.3079999999999856" />
+  </poly>
+  <line zIndex="0" x1="1.9939999999999856" y1="4.661000000000016" x2="1.9939999999999856" y2="3.3910000000000196" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315341369002" name="DIP08">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="5.08000000000002" y1="-2.7399999999999936" x2="-5.08" y2="-2.7399999999999936" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.08" y1="2.3400000000000025" x2="5.08000000000002" y2="2.3400000000000025" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="5.08000000000002" y1="-2.7399999999999936" x2="5.08000000000002" y2="2.3400000000000025" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.08" y1="-2.7399999999999936" x2="-5.08" y2="-1.215999999999996" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.08" y1="2.3400000000000025" x2="-5.08" y2="0.816000000000003" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-5.08" y1="0.816000000000003" x2="-5.08" y2="-1.215999999999996" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="501" isLocked="false">
+    <vertex x="-6.1912" y="2.975" />
+    <vertex x="-5.715" y="2.4988" />
+    <vertex x="-5.2387" y="2.975" />
+    <vertex x="-5.715" y="3.4512" />
+  </poly>
+  <pad number="1" layer="1" x="-3.810000000000007" y="3.6100000000000247" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" layer="1" x="-1.270000000000006" y="3.6100000000000247" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="7" layer="1" x="-1.270000000000006" y="-4.010000000000002" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="8" layer="1" x="-3.810000000000007" y="-4.010000000000002" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" layer="1" x="1.2700000000000164" y="3.6100000000000247" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" layer="1" x="3.810000000000016" y="3.6100000000000247" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="6" layer="1" x="1.2700000000000164" y="-4.010000000000002" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" layer="1" x="3.810000000000016" y="-4.010000000000002" rot="0" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

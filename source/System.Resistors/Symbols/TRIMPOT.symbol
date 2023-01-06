@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317022546035" name="TRIMPOT">
+  <pin zIndex="0" name="CCW" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="CCW" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-1.4210854715202004E-14" y="-5.0800000000000125" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="CW" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="CW" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-1.4210854715202004E-14" y="5.079999999999991" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="WIPER" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="WIPER" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="5.079999999999991" y="-1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-0.038000000000010914" y1="2.5019999999999882" x2="-1.0540000000000092" y2="2.120999999999988" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="2.120999999999988" x2="0.9779999999999873" y2="1.48599999999999" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.9779999999999873" y1="1.48599999999999" x2="-1.0540000000000092" y2="0.850999999999992" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="0.850999999999992" x2="0.9779999999999873" y2="0.21599999999998687" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.9779999999999873" y1="0.21599999999998687" x2="-1.0540000000000092" y2="-0.41900000000001114" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="-0.41900000000001114" x2="0.9779999999999873" y2="-1.0540000000000092" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.9779999999999873" y1="-1.0540000000000092" x2="-1.0540000000000092" y2="-1.6890000000000143" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.0540000000000092" y1="-1.6890000000000143" x2="0.9779999999999873" y2="-2.3240000000000123" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.9779999999999873" y1="-2.3240000000000123" x2="-0.038000000000010914" y2="-2.57800000000001" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <poly zIndex="0" borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="0.9779999999999873" y="-0.038000000000010914" />
+    <vertex x="2.5019999999999882" y="0.9779999999999873" />
+    <vertex x="2.5019999999999882" y="-1.0540000000000092" />
+  </poly>
+</symbol>

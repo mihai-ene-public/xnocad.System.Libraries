@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2019061117502790000" name="TQFP64-14x14">
+  <qfpParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" NumberPads="64" E="0.8" D1="14" D="16" B="0.3" L="0.75" A="1.2" A1="0.15" />
+</model>

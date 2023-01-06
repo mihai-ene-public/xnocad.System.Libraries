@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012313415759030" name="CRYSTAL-GND">
+  <line zIndex="0" x1="-0.634999999999998" y1="-1.2700000000000102" x2="-0.634999999999998" y2="1.269999999999989" width="0.381" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-0.634999999999998" y1="1.269999999999989" x2="0.6350000000000051" y2="1.269999999999989" width="0.381" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.6350000000000051" y1="1.269999999999989" x2="0.6350000000000051" y2="-1.2700000000000102" width="0.381" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="0.6350000000000051" y1="-1.2700000000000102" x2="-0.634999999999998" y2="-1.2700000000000102" width="0.381" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2700000000000031" y1="-1.9050000000000082" x2="1.2700000000000031" y2="1.904999999999987" width="0.381" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="2" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="2.5400000000000063" y="-1.4210854715202004E-14" pinLength="1.27" width="0.381" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="1" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-2.539999999999999" y="-1.4210854715202004E-14" pinLength="1.27" width="0.381" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="-1.269999999999996" y1="-1.9050000000000082" x2="-1.269999999999996" y2="1.904999999999987" width="0.381" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="3" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="3" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="0" y="5.079999999999991" pinLength="3.81" width="0.381" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

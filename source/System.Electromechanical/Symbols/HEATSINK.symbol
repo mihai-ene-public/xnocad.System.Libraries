@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315210613016" name="HEATSINK">
+  <line zIndex="0" x1="10.629999999999995" y1="0.46999999999999886" x2="-12.230000000000004" y2="0.46999999999999886" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="10.629999999999995" y1="-4.609999999999999" x2="10.629999999999995" y2="0.46999999999999886" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="10.629999999999995" y1="0.46999999999999886" x2="10.629999999999995" y2="5.549999999999997" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-12.230000000000004" y1="5.549999999999997" x2="-12.230000000000004" y2="0.46999999999999886" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-12.230000000000004" y1="0.46999999999999886" x2="-12.230000000000004" y2="-4.609999999999999" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-12.230000000000004" y1="0.46999999999999886" x2="-17.310000000000002" y2="-4.609999999999999" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-12.230000000000004" y1="0.46999999999999886" x2="-19.85" y2="0.46999999999999886" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-12.230000000000004" y1="0.46999999999999886" x2="-17.310000000000002" y2="5.549999999999997" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="10.629999999999995" y1="0.46999999999999886" x2="15.709999999999994" y2="-4.609999999999999" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="10.629999999999995" y1="0.46999999999999886" x2="18.25" y2="0.46999999999999886" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="10.629999999999995" y1="0.46999999999999886" x2="15.709999999999994" y2="5.549999999999997" width="0.254" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+</symbol>

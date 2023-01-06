@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315272249003" name="PPTC">
+  <line zIndex="0" x1="2.539999999999999" y1="-1.269999999999996" x2="2.539999999999999" y2="1.2700000000000031" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="2.54" y1="1.27" x2="-2.54" y2="1.27" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-2.539999999999999" y1="1.269999999999989" x2="-2.539999999999999" y2="-1.2700000000000102" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-2.54" y1="-1.27" x2="2.54" y2="-1.27" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="-1.27" y1="2.54" x2="1.27" y2="-2.54" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <line zIndex="0" x1="1.2700000000000244" y1="-2.5400000000000134" x2="2.5400000000000276" y2="-2.5400000000000134" width="0.5" lineStyle="Solid" lineCap="Round" lineColor="#FF000080" />
+  <pin zIndex="0" name="1" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="-5.079999999999998" y="-1.4210854715202004E-14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="2" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="5.08" y="0" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

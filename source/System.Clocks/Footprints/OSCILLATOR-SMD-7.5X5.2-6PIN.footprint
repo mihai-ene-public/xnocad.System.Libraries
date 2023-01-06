@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759010" name="OSCILLATOR-SMD-7.5X5.2-6PIN">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="-3.8500000000000045" y1="-2.7000000000000064" x2="-3.8500000000000045" y2="2.7000000000000126" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <circle x="-4.131000000000004" y="2.981000000000005" diameter="0.721" borderWidth="0" isFilled="false" layer="501" isLocked="false" />
+  <line x1="3.850000000000011" y1="2.7000000000000126" x2="3.850000000000011" y2="-2.7000000000000064" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.8500000000000045" y1="2.7000000000000126" x2="-3.650000000000001" y2="2.7000000000000126" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.3999999999999995" y1="2.7000000000000126" x2="-0.9500000000000104" y2="2.7000000000000126" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.9500000000000033" y1="2.7000000000000126" x2="1.4000000000000064" y2="2.7000000000000126" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.650000000000008" y1="2.7000000000000126" x2="3.850000000000011" y2="2.7000000000000126" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.3999999999999995" y1="-2.7000000000000064" x2="-0.9500000000000104" y2="-2.7000000000000064" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.9500000000000033" y1="-2.7000000000000064" x2="1.4000000000000064" y2="-2.7000000000000064" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="3.650000000000008" y1="-2.7000000000000064" x2="3.850000000000011" y2="-2.7000000000000064" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.8500000000000045" y1="-2.7000000000000064" x2="-3.650000000000001" y2="-2.7000000000000064" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <smd number="2" layer="1" x="2.5400000000000076" y="2.1000000000000005" rot="0" width="1.8" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" layer="1" x="2.5400000000000076" y="-2.1000000000000054" rot="0" width="1.8" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" layer="1" x="-2.5400000000000014" y="-2.1000000000000054" rot="0" width="1.8" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" layer="1" x="-2.5400000000000014" y="2.1000000000000005" rot="0" width="1.8" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC0" layer="1" x="-7.549516567451064E-15" y="2.1000000000000005" rot="-90" width="2" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" layer="1" x="-7.549516567451064E-15" y="-2.1000000000000054" rot="-90" width="2" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="3.7500000000000027" y1="-2.600000000000005" x2="-3.750000000000003" y2="-2.600000000000005" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.750000000000003" y1="2.600000000000004" x2="3.7500000000000027" y2="2.600000000000004" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="3.7500000000000027" y1="2.600000000000004" x2="3.7500000000000027" y2="-2.600000000000005" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="-3.750000000000003" y1="-2.600000000000005" x2="-3.750000000000003" y2="2.600000000000004" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
+    <vertex x="-3.240000000000004" y="-2.600000000000005" />
+    <vertex x="-3.006600000000001" y="-2.600000000000005" />
+    <vertex x="-2.8900000000000037" y="-2.4834000000000067" />
+    <vertex x="-2.8900000000000037" y="-2.355200000000007" />
+    <vertex x="-2.684800000000006" y="-2.1500000000000026" />
+    <vertex x="-2.3787000000000047" y="-2.1500000000000026" />
+    <vertex x="-2.1900000000000004" y="-2.3387000000000064" />
+    <vertex x="-2.1900000000000004" y="-2.4923000000000037" />
+    <vertex x="-2.082299999999999" y="-2.600000000000005" />
+    <vertex x="-1.8400000000000043" y="-2.600000000000005" />
+    <vertex x="-1.8400000000000043" y="-1.3000000000000003" />
+    <vertex x="-3.240000000000004" y="-1.3000000000000003" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
+    <vertex x="-0.7000000000000104" y="-2.600000000000005" />
+    <vertex x="-0.46660000000000657" y="-2.600000000000005" />
+    <vertex x="-0.35000000000000087" y="-2.4834000000000067" />
+    <vertex x="-0.35000000000000087" y="-2.355200000000007" />
+    <vertex x="-0.14479999999999693" y="-2.1500000000000026" />
+    <vertex x="0.16129999999998956" y="-2.1500000000000026" />
+    <vertex x="0.35000000000000764" y="-2.3387000000000064" />
+    <vertex x="0.35000000000000764" y="-2.4923000000000037" />
+    <vertex x="0.45770000000000177" y="-2.600000000000005" />
+    <vertex x="0.7000000000000033" y="-2.600000000000005" />
+    <vertex x="0.7000000000000033" y="-1.3000000000000003" />
+    <vertex x="-0.7000000000000104" y="-1.3000000000000003" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
+    <vertex x="1.8400000000000039" y="-2.600000000000005" />
+    <vertex x="2.073400000000007" y="-2.600000000000005" />
+    <vertex x="2.189999999999998" y="-2.4834000000000067" />
+    <vertex x="2.189999999999998" y="-2.355200000000007" />
+    <vertex x="2.395200000000004" y="-2.1500000000000026" />
+    <vertex x="2.7013000000000056" y="-2.1500000000000026" />
+    <vertex x="2.890000000000002" y="-2.3387000000000064" />
+    <vertex x="2.890000000000002" y="-2.4923000000000037" />
+    <vertex x="2.9977000000000102" y="-2.600000000000005" />
+    <vertex x="3.2400000000000095" y="-2.600000000000005" />
+    <vertex x="3.2400000000000095" y="-1.3000000000000003" />
+    <vertex x="1.8400000000000039" y="-1.3000000000000003" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
+    <vertex x="3.2400000000000095" y="2.600000000000004" />
+    <vertex x="3.0066000000000073" y="2.600000000000004" />
+    <vertex x="2.890000000000002" y="2.4834000000000094" />
+    <vertex x="2.890000000000002" y="2.3552000000000026" />
+    <vertex x="2.684800000000011" y="2.1499999999999977" />
+    <vertex x="2.3787000000000105" y="2.1499999999999977" />
+    <vertex x="2.189999999999998" y="2.338700000000009" />
+    <vertex x="2.189999999999998" y="2.4923000000000064" />
+    <vertex x="2.082300000000004" y="2.600000000000004" />
+    <vertex x="1.8400000000000039" y="2.600000000000004" />
+    <vertex x="1.8400000000000039" y="1.3000000000000038" />
+    <vertex x="3.2400000000000095" y="1.3000000000000038" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
+    <vertex x="0.7000000000000033" y="2.600000000000004" />
+    <vertex x="0.4665999999999988" y="2.600000000000004" />
+    <vertex x="0.35000000000000764" y="2.4834000000000094" />
+    <vertex x="0.35000000000000764" y="2.3552000000000026" />
+    <vertex x="0.14479999999999604" y="2.1499999999999977" />
+    <vertex x="-0.16130000000000466" y="2.1499999999999977" />
+    <vertex x="-0.35000000000000087" y="2.338700000000009" />
+    <vertex x="-0.35000000000000087" y="2.4923000000000064" />
+    <vertex x="-0.45770000000000954" y="2.600000000000004" />
+    <vertex x="-0.7000000000000104" y="2.600000000000004" />
+    <vertex x="-0.7000000000000104" y="1.3000000000000038" />
+    <vertex x="0.7000000000000033" y="1.3000000000000038" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
+    <vertex x="-1.8400000000000043" y="2.600000000000004" />
+    <vertex x="-2.073400000000002" y="2.600000000000004" />
+    <vertex x="-2.1900000000000004" y="2.4834000000000094" />
+    <vertex x="-2.1900000000000004" y="2.3552000000000026" />
+    <vertex x="-2.3952000000000053" y="2.1499999999999977" />
+    <vertex x="-2.7013000000000065" y="2.1499999999999977" />
+    <vertex x="-2.8900000000000037" y="2.338700000000009" />
+    <vertex x="-2.8900000000000037" y="2.4923000000000064" />
+    <vertex x="-2.997700000000005" y="2.600000000000004" />
+    <vertex x="-3.240000000000004" y="2.600000000000004" />
+    <vertex x="-3.240000000000004" y="1.3000000000000038" />
+    <vertex x="-1.8400000000000043" y="1.3000000000000038" />
+  </poly>
+</footprint>

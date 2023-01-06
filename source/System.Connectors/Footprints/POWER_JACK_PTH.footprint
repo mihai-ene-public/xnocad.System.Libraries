@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764102" name="POWER_JACK_PTH">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="4.400000000000003" y1="-5.999999999999995" x2="2.299999999999997" y2="-5.999999999999995" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="4.400000000000003" y1="4.700000000000026" x2="4.400000000000003" y2="-0.5999999999999891" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="4.400000000000003" y1="-5.999999999999995" x2="4.400000000000003" y2="-5.299999999999995" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-4.600000000000004" y1="4.700000000000026" x2="-4.600000000000004" y2="-5.999999999999995" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-4.600000000000004" y1="-5.999999999999995" x2="-2.5" y2="-5.999999999999995" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-4.600000000000004" y1="4.700000000000026" x2="4.400000000000003" y2="4.700000000000026" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <pad number="PWR" layer="1" x="-0.10000000000000284" y="-5.999999999999995" rot="0" width="4.318" height="4.318" cornerRadius="2.159" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.9972" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND" layer="1" x="-0.10000000000000284" y="1.6653345369377348E-15" rot="0" width="4.318" height="4.318" cornerRadius="2.159" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.9972" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GNDBREAK" layer="1" x="4.600000000000006" y="-2.999999999999998" rot="0" width="4.318" height="4.318" cornerRadius="2.159" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.9972" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="-4.600000000000004" y1="4.700000000000026" x2="-4.600000000000004" y2="7.600000000000026" width="0.2032" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="4.400000000000003" y1="7.600000000000026" x2="4.400000000000003" y2="4.700000000000026" width="0.2032" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="4.400000000000003" y1="7.600000000000026" x2="-4.600000000000004" y2="7.600000000000026" width="0.2032" layer="201" lineStyle="Solid" isLocked="false" />
+</footprint>

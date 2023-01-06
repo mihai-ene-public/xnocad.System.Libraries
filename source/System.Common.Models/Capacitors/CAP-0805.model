@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2019061117192738000" name="CAP-0805">
+  <chipParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" E="1.25" D="2" L="0.3" A="1" IsCapacitor="true" />
+</model>

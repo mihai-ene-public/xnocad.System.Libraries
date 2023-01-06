@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019060919554996000" name="CPOL-RADIAL-2.5MM-6.5MM">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <pad number="1" layer="1" x="-1.2499999999999956" y="1.4432899320127035E-15" rot="0" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" layer="1" x="1.250000000000004" y="1.4432899320127035E-15" rot="0" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="-0.8999999999999941" y1="-1.7999999999999958" x2="-1.7999999999999927" y2="-1.7999999999999958" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <circle x="4.107825191113079E-15" y="1.4432899320127035E-15" diameter="6.5" borderWidth="0.2032" isFilled="false" layer="501" isLocked="false" />
+  <line x1="1.8000000000000123" y1="-1.7999999999999958" x2="0.8000000000000084" y2="-1.7999999999999958" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="1.3000000000000083" y1="-2.299999999999996" x2="1.3000000000000083" y2="-1.2999999999999958" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+</footprint>

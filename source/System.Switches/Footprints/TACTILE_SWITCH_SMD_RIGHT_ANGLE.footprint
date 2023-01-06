@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073751025" name="TACTILE_SWITCH_SMD_RIGHT_ANGLE">
+  <layers>
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="-1.999999999999997" y1="-1.2000000000000033" x2="-1.999999999999997" y2="-1.5000000000000004" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.999999999999997" y1="-1.5000000000000004" x2="2.0000000000000027" y2="-1.5000000000000004" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="2.0000000000000027" y1="-1.5000000000000004" x2="2.0000000000000027" y2="-1.2000000000000033" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.999999999999997" y1="1.199999999999997" x2="-1.999999999999997" y2="1.4999999999999942" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-1.999999999999997" y1="1.4999999999999942" x2="-0.7" y2="1.4999999999999942" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.7" y1="1.4999999999999942" x2="0.7000000000000053" y2="1.4999999999999942" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.7000000000000053" y1="1.4999999999999942" x2="2.0000000000000027" y2="1.4999999999999942" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="2.0000000000000027" y1="1.4999999999999942" x2="2.0000000000000027" y2="1.199999999999997" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.7" y1="2.100000000000003" x2="0.7000000000000053" y2="2.100000000000003" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="0.7000000000000053" y1="2.100000000000003" x2="0.7000000000000053" y2="1.4999999999999942" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="-0.7" y1="2.100000000000003" x2="-0.7" y2="1.4999999999999942" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <smd number="1" layer="1" x="-1.9499999999999997" y="-5.273559366969494E-16" rot="-90" width="2" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="1.9500000000000055" y="-5.273559366969494E-16" rot="-90" width="2" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="2.1094237467877974E-15" y="-0.8999999999999992" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" isLocked="false" />
+  <hole x="2.1094237467877974E-15" y="0.8999999999999926" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" isLocked="false" />
+</footprint>
