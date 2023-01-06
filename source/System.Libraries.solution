@@ -23,5 +23,9 @@
   <package>
     <Id>System.Libraries</Id>
     <Version>0.2.0-preview</Version>
+    <Authors>xnocad</Authors>
+    <ProjectUrl>https://github.com/mihai-ene-public/xnocad.System.Libraries</ProjectUrl>
+    <Description>These are the default libraries used by xnocad (https://github.com/mihai-ene-public/cadide)</Description>
+    <Tags>library xnocad</Tags>
   </package>
 </Solution>
